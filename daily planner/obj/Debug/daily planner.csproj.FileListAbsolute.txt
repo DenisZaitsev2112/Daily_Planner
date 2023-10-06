@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\daily planner\daily planner\bin\Debug\daily planner.exe.config
+C:\Users\denis\source\repos\daily planner\daily planner\bin\Debug\daily planner.exe
+C:\Users\denis\source\repos\daily planner\daily planner\bin\Debug\daily planner.pdb
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\MainWindow.baml
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\MainWindow.g.cs
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\App.g.cs
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner_MarkupCompile.cache
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.g.resources
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily_planner.Properties.Resources.resources
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.exe
+C:\Users\denis\source\repos\daily planner\daily planner\obj\Debug\daily planner.pdb
